@@ -332,7 +332,7 @@ $lang_global['company_fax'] = 'Fax';
 $lang_global['company_email'] = 'Email';
 
 $lang_global['company_website'] = 'Website';
-$lang_global['company_contactphone'] = 'Phone Contact';
+$lang_global['company_contactphone'] = 'Điện thoại liên hệ';
 
 $lang_global['siteterms'] = 'Terms & Conditions';
 $lang_global['siteterms_url'] = 'Terms & Conditions URL';
